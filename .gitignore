@@ -72,3 +72,13 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 *.vscode
+
+# Asset
+*unity-chan!
+*Nodachi_Animset
+*FemaleMovementAnimsetPro
+
+*.asset
+*.meta
+
+Assets/Low Poly*
